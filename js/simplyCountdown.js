@@ -115,7 +115,7 @@
      */
     simplyCountdown = function (elt, args) {
         var parameters = extend({
-                year: 2024,
+                year: 2026,
                 month: 9,
                 day: 21,
                 hours: 13,
@@ -154,7 +154,7 @@
             cd = document.querySelectorAll(elt);
 
         targetTmpDate = new Date(
-            parameters.year = 2024,
+            parameters.year = 2026,
             parameters.month = 8,
             parameters.day = 21,
             parameters.hours = 15,
